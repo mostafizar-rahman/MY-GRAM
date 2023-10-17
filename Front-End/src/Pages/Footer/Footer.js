@@ -8,8 +8,8 @@ function Footer() {
             <div className="max-w-screen-xl px-4 py-16 mx-auto space-y-8 sm:px-6 lg:space-y-16 lg:px-8" >
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
                     <div>
-                        <NavLink to="/" className='font-bold text-5xl text-gray-50' style={{ fontFamily: 'Gwendolyn' }}>mygram</NavLink>
-                        <p className="max-w-xs mt-4 text-gray-100"> mygram is a social media site where you can share your best moments captured on your mobile or camera, You can write the stories in your mind.</p>
+                        <NavLink to="/" className='font-bold text-5xl text-gray-50' style={{ fontFamily: 'Gwendolyn' }}>MediaMarvels</NavLink>
+                        <p className="max-w-xs mt-4 text-gray-100"> MediaMarvels is a social media site where you can share your best moments captured on your mobile or camera, You can write the stories in your mind.</p>
 
                         <ul className="flex gap-6 mt-8">
                             <li>

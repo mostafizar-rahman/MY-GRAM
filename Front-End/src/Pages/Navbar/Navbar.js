@@ -19,7 +19,7 @@ function Navbar() {
         <header aria-label="Site Header" className="border-b max-w-screen-xl mx-auto border-gray-100">
             <div className="mx-auto  flex h-16 max-w-screen-2xl relative items-center justify-between px-3 sm:px-6 lg:px-8">
                 <div className="flex items-center">
-                    <NavLink to="/" className='font-bold text-3xl' style={{ fontFamily: 'Gwendolyn' }}>mygram</NavLink>
+                    <NavLink to="/" className='font-bold text-3xl' style={{ fontFamily: 'Gwendolyn' }}>MediaMarvels</NavLink>
                 </div>
 
                 <div className="flex flex-1 items-center justify-end">
